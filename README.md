@@ -73,6 +73,18 @@ I build end-to-end analytics, dashboards, and scalable backend systems with meas
 ---
 
 ## 🤝 Let’s Connect
-🌐 Portfolio: https://rajatd23.github.io/rajatdungarwal-portfolio/  
-💼 LinkedIn: https://www.linkedin.com/in/rajat-dungarwal-60a004182/  
-📫 Email: dungarwalrajat@gmail.com
+
+<p align="center">
+  <a href="https://rajatd23.github.io/rajatdungarwal-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rajat-dungarwal-60a004182/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dungarwalrajat@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Message-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/rajatd23" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
