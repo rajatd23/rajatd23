@@ -22,9 +22,6 @@ MS CS @ UT Arlington (GPA 3.92/4.0) • Python • SQL • APIs • Power BI •
 I build end-to-end analytics, dashboards, and scalable backend systems with measurable impact.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajatd23&style=for-the-badge&color=7c3aed" />
-</p>
 
 ---
 
