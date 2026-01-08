@@ -1,6 +1,6 @@
-<!-- Banner -->
+<!-- ===================== HERO ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Rajat%20Dungarwal&fontAlign=50&fontAlignY=40&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Rajat%20Dungarwal&fontAlign=50&fontAlignY=40&color=gradient" />
 </p>
 
 <p align="center">
@@ -11,103 +11,89 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dungarwalrajat@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-dungarwalrajat%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <h2 align="center">Full-Stack Developer • Data Analyst • ML Engineer</h2>
 
 <p align="center">
-MS CS @ UT Arlington (GPA 3.92/4.0) • Python • SQL • APIs • Power BI • ML<br/>
-I build data pipelines, dashboards, and scalable backend services that deliver measurable impact.
+MS CS @ UT Arlington (GPA 3.92/4.0) • Python • SQL • APIs • Power BI • ML • Cloud<br/>
+I build end-to-end analytics, dashboards, and scalable backend systems with measurable impact.
 </p>
-
----
-
-## 🔥 What I Do (Highlights)
-- Built standardized **Python data-cleaning pipelines** across multiple datasets, improving consistency and accelerating ML cycles.
-- Engineered **ASP.NET Core + REST APIs + SQL** systems handling high-volume transactions with performance improvements.
-- Built **Power BI dashboards** and analytics pipelines for KPI monitoring and decision support.
-- Worked on **image annotation + validation** (CVAT) to support deep learning segmentation research.
-
----
-
-## 🧰 Skills & Tools
-
-### 👨‍💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-1f2937?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-1f2937?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge&logo=javascript&logoColor=white"/>
-</p>
-
-### 🧩 Backend & APIs
-<p>
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-7c3aed?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-7c3aed?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-7c3aed?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-7c3aed?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
-### 🔐 Auth & Integration
-<p>
-  <img src="https://img.shields.io/badge/JWT-06b6d4?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OAuth%202.0-06b6d4?style=for-the-badge&logo=auth0&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSON-06b6d4?style=for-the-badge&logo=json&logoColor=white"/>
-</p>
-
-### 📊 Data, BI & ML
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-22c55e?style=for-the-badge&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-22c55e?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-22c55e?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-22c55e?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-22c55e?style=for-the-badge&logo=pytorch&logoColor=white"/>
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-f59e0b?style=for-the-badge&logo=amazonaws&logoColor=111827"/>
-  <img src="https://img.shields.io/badge/Docker-f59e0b?style=for-the-badge&logo=docker&logoColor=111827"/>
-  <img src="https://img.shields.io/badge/Kubernetes-f59e0b?style=for-the-badge&logo=kubernetes&logoColor=111827"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-f59e0b?style=for-the-badge&logo=githubactions&logoColor=111827"/>
-  <img src="https://img.shields.io/badge/Git%2FGitHub-f59e0b?style=for-the-badge&logo=github&logoColor=111827"/>
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-ef4444?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-ef4444?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-ef4444?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snowflake-ef4444?style=for-the-badge&logo=snowflake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BigQuery-ef4444?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-</p>
-
----
-
-## 📌 Featured Projects
-> Replace the repo names below with your exact GitHub repo names (copy from your repo URLs).
 
 <p align="center">
-  <a href="https://github.com/rajatd23">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajatd23&repo=personal-finance-tracker&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/rajatd23">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajatd23&repo=monthly-retail-sales-dashboard&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=rajatd23&style=for-the-badge&color=7c3aed" />
 </p>
-
-### ⭐ Project Snapshots
-- **Personal Finance Tracker** — Flask + MySQL + REST APIs + JWT/OAuth, Dockerized backend, AWS deployment, CI/CD.  
-- **Monthly Retail Sales Dashboard** — ETL pipeline on 10K+ transactions, 15 KPI Power BI dashboard, Python/SQL analytics.  
-- **Thing Translator** — TensorFlow + MobileNetV2 transfer learning, TFLite on-device inference, Android object-to-speech app.
 
 ---
 
-## 🏆 Certifications
-- Create Generative AI Applications on Google Cloud
-- Machine Learning Operations (MLOps) for Generative AI
+## 🚀 Impact Highlights
+- Built standardized **Python data-cleaning pipelines** across multiple datasets, reducing inconsistencies and accelerating ML cycles.
+- Engineered **ASP.NET Core + REST APIs + SQL** services, improving throughput & performance for high-volume transactions.
+- Created **Power BI dashboards** to track KPIs and enable data-driven decisions.
+- Worked on **annotation/validation (CVAT)** to support deep learning research for image segmentation.
+
+---
+
+## 🧰 Skills (Quick View)
+
+**Languages:** Python • Java • C# • JavaScript  
+**Backend & APIs:** ASP.NET Core • Flask • Django • REST • JSON • JWT • OAuth 2.0  
+**AI / Data:** ML • TensorFlow • PyTorch • Pandas • NumPy • ETL • Model Evaluation • Power BI  
+**Cloud/DevOps:** AWS • Docker • Kubernetes • CI/CD • Git/GitHub • Microservices  
+**Databases:** MySQL • PostgreSQL • MongoDB • Snowflake • BigQuery  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cs,js,flask,django,postgres,mysql,mongodb,aws,docker,kubernetes,git,github,linux&perline=8" />
+</p>
+
+---
+
+## 📌 Featured Projects (Pin Cards)
+
+<p align="center">
+  <a href="https://github.com/rajatd23/AI-Analytics-Copilot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajatd23&repo=AI-Analytics-Copilot&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/rajatd23/personal-finance-tracker-se">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajatd23&repo=personal-finance-tracker-se&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rajatd23/Thing-Translator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajatd23&repo=Thing-Translator&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/rajatd23/House-Sales-Price-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajatd23&repo=House-Sales-Price-Analysis&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rajatd23/Movie-Genre-Prediction-from-Plot-Summaries">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajatd23&repo=Movie-Genre-Prediction-from-Plot-Summaries&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/rajatd23/Diabetes-Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajatd23&repo=Diabetes-Prediction&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## 🧠 Project Snapshots
+- **AI Analytics Copilot** — NL → SQL analytics workflow on PostgreSQL, insights + charts.
+- **Personal Finance Tracker** — secure expense tracking, budgeting, REST APIs, auth (JWT/OAuth), Docker + AWS.
+- **Thing Translator** — MobileNetV2 transfer learning, TensorFlow Lite on-device inference, Android object-to-speech.
+- **House Sales Price Analysis** — EDA + regression modeling with scaling + polynomial features; visual insights.
+- **Movie Genre Prediction** — NLP pipeline with TF-IDF + supervised models for genre classification; Kaggle submission.
+- **Diabetes Prediction** — classification pipeline with preprocessing + evaluation metrics; Kaggle challenge submission.
+
+---
+
+## 🏅 Certifications
+- Create Generative AI Applications on Google Cloud (Google)
+- Machine Learning Operations (MLOps) for Generative AI (Google)
 - Python for Data Science (IBM)
 
 ---
@@ -125,10 +111,6 @@ I build data pipelines, dashboards, and scalable backend services that deliver m
 ---
 
 ## 🤝 Let’s Connect
-- 🌐 Portfolio: https://rajatd23.github.io/rajatdungarwal-portfolio/
-- 💼 LinkedIn: https://www.linkedin.com/in/rajat-dungarwal-60a004182/
-- 📫 Email: dungarwalrajat@gmail.com
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajatd23&style=for-the-badge&color=7c3aed" />
-</p>
+🌐 Portfolio: https://rajatd23.github.io/rajatdungarwal-portfolio/  
+💼 LinkedIn: https://www.linkedin.com/in/rajat-dungarwal-60a004182/  
+📫 Email: dungarwalrajat@gmail.com
