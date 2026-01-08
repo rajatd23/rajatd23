@@ -68,9 +68,6 @@ I build end-to-end analytics, dashboards, and scalable backend systems with meas
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rajatd23&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajatd23&theme=tokyo-night&hide_border=true" />
