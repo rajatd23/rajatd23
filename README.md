@@ -50,37 +50,6 @@ I build end-to-end analytics, dashboards, and scalable backend systems with meas
 
 ---
 
-## 📌 Featured Projects (Pin Cards)
-
-<p align="center">
-  <a href="https://github.com/rajatd23/AI-Analytics-Copilot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajatd23&repo=AI-Analytics-Copilot&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/rajatd23/personal-finance-tracker-se">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajatd23&repo=personal-finance-tracker-se&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/rajatd23/Thing-Translator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajatd23&repo=Thing-Translator&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/rajatd23/House-Sales-Price-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajatd23&repo=House-Sales-Price-Analysis&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/rajatd23/Movie-Genre-Prediction-from-Plot-Summaries">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajatd23&repo=Movie-Genre-Prediction-from-Plot-Summaries&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/rajatd23/Diabetes-Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajatd23&repo=Diabetes-Prediction&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## 🧠 Project Snapshots
 - **AI Analytics Copilot** — NL → SQL analytics workflow on PostgreSQL, insights + charts.
 - **Personal Finance Tracker** — secure expense tracking, budgeting, REST APIs, auth (JWT/OAuth), Docker + AWS.
